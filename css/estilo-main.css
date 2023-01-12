@@ -1,0 +1,50 @@
+.corpo {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Inder', sans-serif;
+    font-size: 18px;
+} 
+
+.container-maior {
+    height: 100vh;
+}
+
+.container-principal {
+    width: 540px;
+    padding-top: 80px;
+    padding-left: 95px;
+    position: fixed;
+}
+
+.foto {
+    width: 29%;
+    border: none;
+    border-radius: 50%;
+}
+
+.titulo {
+    margin-top: 50px;   
+    margin-bottom: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+
+.sobre-mim {
+    color: #9c9c9c;
+    margin-bottom: 200px;
+    margin-top: 70px;
+    line-height: 35px;
+}
+
+.redes {
+    font-size: 15px;
+    color: #dbdada;
+    text-decoration: none;
+}
+
+.redes-sociais {
+    display: flex;
+    gap: 40px;  
+}
+

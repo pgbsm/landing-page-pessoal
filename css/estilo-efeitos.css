@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gradiente {
+    background-image: linear-gradient(to left, #1a6da5, #64a3d6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: blue;
+}
+
+.sobreposto {
+    background-color: #1a6da5;
+}
